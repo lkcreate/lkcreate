@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshya Khanal</h1>
 <h3 align="center">A technical student currently studying in Butwal, Nepal.</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjessup.edu%2Fblog%2Fengineering-technology%2Fprogramming-in-computer-science%2F&psig=AOvVaw03TKYJzIcO9-xXDZvTSB56&ust=1751179927955000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjir-XDk44DFQAAAAAdAAAAABAE"/>
+<img src="p4.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkcreate&label=Profile%20views&color=0e75b6&style=flat" alt="lkcreate" /> </p>
 
